@@ -1,4 +1,4 @@
-This is SDL2#, a C# wrapper for SDL2.
+# This is SDL2#, a C# wrapper for SDL2 #
 
 Project Website: https://github.com/flibitijibibo/SDL2-CS
 
@@ -18,6 +18,7 @@ The C# wrapper was written to be used for FNA's platform support. However, this
 is written in a way that can be used for any general C# application.
 
 The wrapper provides bindings for the following libraries:
+
 - SDL2
 - SDL2_image
 - SDL2_mixer
@@ -33,7 +34,7 @@ be exactly as they are done in the C library, with little-to-no concern for
 names will indicate which library file the function/type/value exists in, and
 everything else will be as close to the C version as technically possible.
 
-Roadmap
+Road map
 -------
 To see the current roadmap for SDL2#, visit the GitHub issues page:
 
